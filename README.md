@@ -27,3 +27,9 @@ Der Datensatz enthält ___ Spalten:
 ## Ziel
 Vorhersagemodell: wird das Einkommen einer Person größer oder kleiner 50.000 US-Dollar liegen?
 <br>Wichtigkeit und Richtung des Einflusses der einzelnen Merkmale bestimmen.
+
+
+### Lizenz
+Dieses Projekt steht unter der [Creative Commons Namensnennung – Nicht-kommerziell 4.0 International Lizenz (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de).  
+Eine Nutzung ist nur mit Namensnennung und nicht-kommerziell gestattet.
+
